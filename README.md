@@ -1,5 +1,5 @@
-## Collecting-and-processing-data
-### Methods of collecting and processing data from the Internet
+## WEB Scraping
+### Collecting and processing data from the WEB
 
 ### avia_tickets.py
 Тема: Работа с API aviasales и парсинг json  
